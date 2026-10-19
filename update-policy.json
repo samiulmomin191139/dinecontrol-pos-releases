@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "mode": "mandatory",
+  "latestVersion": "0.1.0",
+  "minimumVersion": "0.1.0",
+  "message": "A newer DineControl POS version is available."
+}
+
